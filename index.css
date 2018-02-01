@@ -1,0 +1,15 @@
+.HomePic{
+ background-image: url(http://image.boomsbeat.com/data/images/full/283229/damian-lillard-jpg.jpg);
+ width: auto;height: auto;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-color: black;
+}
+
+.AboutmePic{
+ background-image: url(IMG_0379.JPG);
+ width: auto;height: auto;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-color: black;
+}
