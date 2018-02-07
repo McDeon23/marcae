@@ -1,14 +1,14 @@
-.Homepic{
- background-image: url("https://usathoopshype.files.wordpress.com/2017/10/gettyimages-672267080.jpg?w=1000&h=600&crop=1");
+/*.Homepic{
+ background-image: url("");
  height: 100%;
  width: auto;
  background-repeat:no-repeat;
  background-size: cover;
  background-color:black;
-}
+}*/
 
 .contactPic{
- background-image: url("marcae3.jpg");
+ background-image: url("marcae.jpg");
  width: auto;height: auto;
  background-repeat: no-repeat;
  background-size: cover;
