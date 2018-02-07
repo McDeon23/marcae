@@ -1,15 +1,45 @@
-.HomePic{
- background-image: url(http://image.boomsbeat.com/data/images/full/283229/damian-lillard-jpg.jpg);
- width: auto;height: auto;
- background-repeat: no-repeat;
+.Homepic{
+ background-image: url("https://usathoopshype.files.wordpress.com/2017/10/gettyimages-672267080.jpg?w=1000&h=600&crop=1");
+ height: 100%;
+ width: auto;
+ background-repeat:no-repeat;
  background-size: cover;
- background-color: black;
+ background-color:black;
 }
 
-.AboutmePic{
- background-image: url(IMG_0379.JPG);
+.contactPic{
+ background-image: url("marcae3.jpg");
  width: auto;height: auto;
  background-repeat: no-repeat;
  background-size: cover;
- background-color: black;
+}
+
+.AboutmePic{background-image: url("https://images.unsplash.com/photo-1465101162946-4377e57745c3?ixlib=rb-0.3.5&s=8afa11b380d228808390a0e64c395941&dpr=1&auto=format&fit=crop&w=376&h=248&q=60&cs=tinysrgb");
+height: 100%;
+width: auto;
+background-repeat:no-repeat;
+background-size: cover;
+background-color:black
+color: white;
+}
+
+.card {
+  margin: 5%;
+  /*margin-top: 50%;*/
+}
+
+#contact-card {
+  position: relative;
+  margin-top: 43%;
+  bottom: 10px;
+}
+
+.index-div {
+  margin: 10%;
+  z-index: 1;
+  color: white;
+}
+#boutit {
+  color: white;
+  margin: 2%;
 }
